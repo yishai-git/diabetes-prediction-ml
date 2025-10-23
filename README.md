@@ -38,7 +38,7 @@ scikit-learn — for preprocessing, SMOTE, modeling, and evaluation
 Results:
 
 Balanced dataset size: 175,328 samples
-Achieved strong model performance (you’ll fill in your metrics after running evaluations).
+Achieved strong model performance .
 HbA1c level and blood glucose were the most predictive features.
 
 How to Run:
